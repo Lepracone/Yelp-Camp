@@ -59,6 +59,9 @@ app.use(campgroundRoutes);
 
 
 
+app.listen(process.env.PORT || 3000, function() {
+    console.log("HB has started");
+});
 
-app.listen(3000, function(){ console.log("YelpCamp server has started")});
+//app.listen(3000, function(){ console.log("YelpCamp server has started")});
 
