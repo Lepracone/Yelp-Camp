@@ -29,5 +29,5 @@ To see the app in action, go to [Ricardo's Yelp Camp](https://yelp-camp-ricardo.
 - Back-end
   - [express](https://expressjs.com/)
   - [mongoDB](https://www.mongodb.com/)
-  - [passport] (http://www.passportjs.org/)
-  - [ejs] (https://ejs.co/)
+  - [passport](http://www.passportjs.org/)
+  - [ejs](https://ejs.co/)
