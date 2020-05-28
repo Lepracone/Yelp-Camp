@@ -11,8 +11,8 @@ To see the app in action, go to [Ricardo's Yelp Camp](https://yelp-camp-ricardo.
   - User login with username and password
   
 - Authorization
-  -User has to be authenticated to be able to create new posts or comments.
-  -User can only edit or delete his own comments or posts.
+  - User has to be authenticated to be able to create new posts or comments.
+  - User can only edit or delete his own comments or posts.
   
 - View, edit, create and delete posts and comments.
 
