@@ -4,6 +4,9 @@ YelpCamp is a Node.js web application with RESTful routing project from the Udem
 
 ## Live Demo
 To see the app in action, go to [Ricardo's Yelp Camp](https://yelp-camp-ricardo.herokuapp.com/)
+Use the following credentials to login:
+  User: testUser
+  Password: testpassword
 
 ## Features
 - Authentication
